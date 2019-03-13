@@ -1,7 +1,7 @@
 # PLCnext-OPC-UA-connect-minimal
 This is a minimal example to connect to a Phoenix Contact AXC F 2152 PLCnext enabled PLC. 
 
-To familiarize myself with the OPC-UA protocol (and server in the PLC) I tried to connect to the PLC usings (almost) its default settings. The exact security string took me some time to get right; maybe this is useful for someone else.
+To familiarize myself with the OPC-UA protocol (and server in the PLC) I tried to connect to the PLC using (almost) its default settings. The exact security string took me some time to get right; maybe this is useful for someone else.
 
 * Use with python3 and be sure python-opcua is installed ("pip3 install opcua")
 * The included certificates are provided as example or for testing purposes only, generate your own for real-world use!
